@@ -1,6 +1,6 @@
 # Sageling FFAI Bot
 
-This is a Bot that runs for the [Fantasy Football Artificial Intelligence framework](https://github.com/njustesen/ffai).
+This is a Bot that runs using the [Fantasy Football Artificial Intelligence framework](https://github.com/njustesen/ffai).
 
 ## Local Development
 
